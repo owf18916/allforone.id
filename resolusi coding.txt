@@ -1,0 +1,7 @@
+Resolusi Coding Akhir Tahun :
+
+1. Kuasai bootstrap
+2. Belajar materialize
+3. Kuasai javascript dasar
+4. Belajar framework javascript
+5. Buat interaktif - dinamis website dengan bootstrap + js
